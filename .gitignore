@@ -1,3 +1,4 @@
 .vs/
 Patch/bin/
 Patch/obj/
+*.meta
